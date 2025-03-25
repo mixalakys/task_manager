@@ -1,2 +1,1 @@
-# task_manager
-a simple task manager made with python
+this is a simple task manager made with python
